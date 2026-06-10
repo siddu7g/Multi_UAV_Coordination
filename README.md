@@ -63,3 +63,10 @@ Publishes annotated camera images with detection overlays for debugging and visu
 Logs UAV status, detection events, and path execution progress.
 
 Link: https://www.youtube.com/watch?v=kvYuOkeFVt0
+
+## Acknowledgments & Credits
+
+This project builds on the **MRS UAV System**, developed by theMulti-Robot Systems (MRS) Group at the Czech Technical University. All credit for the underlying multi-UAV autonomy stack belongs to the original authors; this repository adapts and extends their work.
+
+- **Original repository:** [ctu-mrs/mrs_uav_system](https://github.com/ctu-mrs/mrs_uav_system)
+- **Project website:** [MRS UAV System](https://mrs.fel.cvut.cz/mrs-uav-system)
