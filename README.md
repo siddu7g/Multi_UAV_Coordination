@@ -1,5 +1,7 @@
 # Trajectory Generation and Multi UAV Communication using ROS Nodes
 
+![logo](videos/fly4future_logo.jpg)
+
 ## How to start
 
 Step 1
